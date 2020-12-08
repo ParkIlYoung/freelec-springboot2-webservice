@@ -1,8 +1,6 @@
 package com.p10.book.springboot.web;
 
 import com.p10.book.springboot.web.dto.HelloResponseDto;
-import javafx.application.Application;
-import javafx.stage.Stage;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
